@@ -1,63 +1,30 @@
-# ⚡ Mohamed Fawzi Abdellaoui | Senior Mobile Architect & AI/IoT Integrator
+# Mohamed Fawzi Abdellaoui
 
-Building scalable mobile ecosystems, strict clean architectures, and hardware-to-software bridges for high-growth B2B and consumer markets. 
+**Cross-Platform Mobile & Full-Stack Engineer | Flutter, React Native, NestJS | AI & IoT**
 
----
+I build Flutter and React Native apps and the NestJS, FastAPI and Next.js services behind them: offline-first sync, payments, maps and LLM features, covered by unit, integration and end-to-end tests. I also teach mobile engineering at university level in Sfax, Tunisia.
 
-### 🚀 What I Do
-I specialize in designing and engineering high-performance mobile applications backed by robust, dockerized microservices. I don't just write code; I design systems that scale securely, integrate seamlessly with IoT/AI edge devices, and reduce long-term technical debt for CTOs and technical founders. 
+### Currently
 
-Whether it's writing open-source Dart packages or bridging physical sensors to backend databases, my focus is always on **Clean Architecture** and **SOLID principles**.
+- Cross-Platform Mobile & Full-Stack Engineer at **PixiMind** (since Jan 2024)
+- Teaching mobile engineering at **IIT** and **IPSAS**, Sfax (since Sep 2025)
 
----
+### Selected repositories
 
-### 🏗️ Featured Architecture & Open Source Portfolio
+| Repository | What it is | Stack |
+| --- | --- | --- |
+| [bloc_connectivity](https://github.com/MohamedFawziAbdellaoui/bloc_connectivity) | Flutter package that wraps an app in a `NetworkChecker` widget and tracks connectivity with BLoC, with tests | Dart, flutter_bloc, connectivity_plus |
+| [jobFinder](https://github.com/MohamedFawziAbdellaoui/jobFinder) · [recruitment-app-backend](https://github.com/MohamedFawziAbdellaoui/recruitment-app-backend) | Hiring app for job seekers and employers: Flutter front end, and a NestJS REST API packaged with Docker | Dart, TypeScript, NestJS, Docker |
+| [smart_university](https://github.com/MohamedFawziAbdellaoui/smart_university) | Flutter app organised into core and feature modules for clear separation of concerns | Dart, Flutter |
+| [googlers_backoffice](https://github.com/MohamedFawziAbdellaoui/googlers_backoffice) | Team project: NestJS API and Next.js front end running as a Docker Compose multi-container setup | TypeScript, NestJS, Next.js, Docker |
+| [T-shirt_editor](https://github.com/MohamedFawziAbdellaoui/T-shirt_editor) | 3D T-shirt editor: upload a logo, change the colour, preview the result | React, react-three-fiber, Vite |
+| [notes_app_iit](https://github.com/MohamedFawziAbdellaoui/notes_app_iit) · [notes_app_ipsas_jour](https://github.com/MohamedFawziAbdellaoui/notes_app_ipsas_jour) | Flutter lab projects from the mobile engineering course I teach | Dart, Flutter |
 
-Here are my core architectural templates, packages, and full-stack systems. 
+### Tech
 
-#### 1. 🏢 Coworking Space IoT Admin System
-* **The Business Value:** Demonstrates full-stack IoT integration. This system bridges hardware and software to optimize coworking spaces by detecting workstation leftovers, managing user identification, and automatically applying penalty scoring to backend user accounts.
-* **Core Tech:** AI/IoT Integration, Backend Systems, Complex State Management.
-* [View Repository](#) 
-
-#### 2. 📦 `bloc_connectivity` (Pub.dev Package)
-* **The Business Value:** I build the tools other developers rely on. This is an open-source package designed to provide a highly reactive, boilerplate-free way to handle network connectivity states in enterprise Flutter apps.
-* **Core Tech:** Flutter, Dart, Open Source, BLoC.
-* [View Repository](#) 
-
-#### 3. 🏛️ `flutter_bloc_clean_architecture` Template
-* **The Business Value:** A definitive starting point for scalable mobile apps. This template proves my strict adherence to Domain-Driven Design (DDD) and Clean Architecture, designed to drastically cut onboarding time for new developers and prevent spaghetti code.
-* **Core Tech:** Flutter, BLoC, Domain-Driven Design, SOLID.
-* [View Repository](#) 
-
-#### 4. 🐳 Dockerized NestJS Starter Kit
-* **The Business Value:** Eliminates the "it works on my machine" problem. A production-ready backend boilerplate optimized for microservices, reducing initial backend DevOps and API scaffolding time by 80%.
-* **Core Tech:** NestJS, Docker, TypeScript, Backend Ops.
-* [View Repository](#) 
-
-#### 5. 🛒 Scalable E-Commerce Mobile Template
-* **The Business Value:** Built for revenue-generating interfaces. Highlights my ability to manage complex application states, persistent cart synchronization, and dynamic product rendering without sacrificing frame rates.
-* **Core Tech:** Mobile UI/UX, State Management, Local Caching.
-* [View Repository](#) 
-
-#### 6. 🔍 Job Finder Ecosystem (Frontend + Backend)
-* **The Business Value:** Showcases true full-stack project ownership. Covers everything from backend database schema design and RESTful APIs to client-side mobile UI routing.
-* **Core Tech:** Full-Stack Integration, Node.js, Mobile UI.
-* [View Repository](#)
-
----
-
-### 🛠️ The Tech Arsenal
-
-* **Mobile Engineering:** Flutter, Dart, React Native, BLoC, Clean Architecture.
-* **Backend & DevOps:** Node.js, NestJS, TypeScript, Docker, REST APIs.
-* **Emerging Tech:** IoT Device Integration, Edge AI, Hardware/Software Bridging.
-
----
-
-### 📬 Let's Build Something Scalable
-I am currently open to high-level architectural consulting, B2B contract work, and technical leadership roles.
-
-* **Email:** [Insert Email]
-* **LinkedIn:** [Insert LinkedIn Profile]
-* **Portfolio:** [Insert Portfolio Website]
+- **Mobile:** Flutter, Dart, React Native, TypeScript, Kotlin, Swift
+- **Backend & web:** NestJS, Node.js, Next.js, FastAPI, Django
+- **Testing:** unit, integration, end-to-end (Playwright)
+- **Cloud & DevOps:** Docker, Firebase, AWS S3, Google Cloud Storage, CI/CD
+- **AI & IoT:** LLM APIs, Ollama, YOLO, Roboflow, OpenCV, Raspberry Pi, ThingsBoard
+- **Practices:** Clean Architecture, SOLID, TDD; BLoC, Riverpod, GetX
